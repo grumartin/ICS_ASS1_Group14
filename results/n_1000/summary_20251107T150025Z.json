@@ -1,0 +1,18 @@
+{
+  "cider_fp16": 0.7955979608290015,
+  "cider_int8": 0.7539660598169512,
+  "cider_int8_vit": 0.8250601100022886,
+  "delta_cider_int8": -0.041631901012050276,
+  "delta_cider_int8_vit": 0.029462149173287155,
+  "avg_latency_fp16_s": 2.58294228887558,
+  "avg_latency_int8_s": 3.459083720445633,
+  "avg_latency_int8_vit_s": 1.211834219455719,
+  "throughput_fp16_img_s": 0.38715537869617883,
+  "throughput_int8_img_s": 0.2890938990835325,
+  "throughput_int8_vit_img_s": 0.8251953806430208,
+  "model_size_fp16_mb": 7161.375,
+  "model_size_int8_mb": 3879.59375,
+  "model_size_int8_vit_mb": 8433.75927734375,
+  "n_samples": 1000,
+  "timestamp": "2025-11-07T15:00:25.136651Z"
+}
